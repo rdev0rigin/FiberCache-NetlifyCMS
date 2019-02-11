@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94138282-2a0b-4c7a-8556-349f289e366c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/blog/are-you-doing-the-right-way/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/are-you-doing-the-right-way/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/blog/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/index.xml" afterDir="false" />
@@ -27,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="103" column="22" lean-forward="true" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+            <state relative-caret-position="60">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -48,8 +47,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="94" />
+    <option name="y" value="33" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -158,8 +159,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="103" column="22" lean-forward="true" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
